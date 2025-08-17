@@ -245,6 +245,7 @@ def generate_answers_and_update_df(file_path, question_column, llm_model):
         question = row[question_column]
         retrieved_context = retrieve_context(llm_model, question)
         text = f"{retrieved_context}\n{question}"
+        print(f'question is {question}, retrieved_context is {retrieved_context}')
         prompt = """
                 You are an accurate and precise assistant. The user has asked the following question:
                 {question}
@@ -260,14 +261,14 @@ def generate_answers_and_update_df(file_path, question_column, llm_model):
 
                 Example Input:
                 - Question: "What does rule V.1 state exactly?"
-                - Provided Context: {V.1: "CONFIGURATION\nThe vehicle must be open wheeled and open cockpit (a formula style body) with four wheels."}
-
+                - Provided Context: {'key_to_extract': 'V.1', 'information_extracted': 'CONFIGURATION\nThe vehicle must be open wheeled and open cockpit (a formula style body) with four wheels\nthat are not in a straight line.'}
                 Example Output:
-                "CONFIGURATION\nThe vehicle must be open wheeled and open cockpit (a formula style body) with four wheels"""
-
+                "CONFIGURATION\nThe vehicle must be open wheeled and open cockpit (a formula style body) with four wheels\nthat are not in a straight line."
+                """
         # Generate model prediction
         try:
             prediction = invoke_llm(llm_model, text, prompt=prompt)
+            
         except Exception as e:
             prediction = f"Error: {e}"
 
@@ -278,7 +279,7 @@ def generate_answers_and_update_df(file_path, question_column, llm_model):
         print(f"Row {index}: Question: {question} | Prediction: {prediction}")
 
     # Add the predictions as a new column in the DataFrame
-    df['model prediction'] = predictions
+    df[['model prediction']] = predictions
     file_path = "../eval/"
     new_filename = file_path + f"{filename}_{llm_model}.csv"
     # Save the DataFrame to CSV
@@ -295,7 +296,7 @@ df, filename = read_csv_to_dataframe_with_filename(file_path)
 updated_df = generate_answers_and_update_df(file_path=file_path, question_column="question", llm_model='gpt-5-nano')
 
 # Print updated DataFrame
-print(updated_df['model prediction'])
+print(updated_df[['model prediction']])
 
 
 """
