@@ -500,8 +500,8 @@ output_file = '../files/processed_rules.json'
 output_file_with_terms = '../files/processed_rules_with_terms.json'
 
 # Define the start and end page numbers for extraction
-start_page = 16  # Starting page number
-end_page = 140  #len(page_content_dict)   # Ending page number
+start_page = 19  # Starting page number
+end_page = 19  #len(page_content_dict)   # Ending page number
 extract_details(
     input_file=input_file,
     output_file=output_file,
