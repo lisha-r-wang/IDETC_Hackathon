@@ -1,0 +1,32 @@
+﻿im_num,highlighted_component,hidden_components,mention_in_rules,checked_by_team,rev,finalized
+1,pedal box; pedal assembly,no,mentioned,yes,rev2,done
+2,master cylinders,no,mentioned,yes,-,done
+3,APPS; accelerator pedal position sensor,no,mentioned,yes,-,done
+4,front hoop; front roll hoop,no,definition,yes,yes,done
+5,roll hoop; roll hoops,no,definition,yes,yes,done
+6,main hoop,no,definition,yes,yes,done
+7,front bulkhead; front basket,no,definition,yes,rev2,done
+8,chassis; frame; space frame,no,definition,yes,rev2,done
+9,steering wheel,no,mentioned,yes,yes,done
+10,powertrain; drivetrain,no,mentioned,yes,yes,done
+11,brakes; brake system,yes,mentioned,yes,rev2,done
+12,accumulator; accumulator container; battery,no,definition,yes,yes,done
+13,rocker arms,no,mentioned,yes,rev2,done
+14,uprights,yes,mentioned,yes,rev2,done
+15,wheel centers,yes,mentioned,yes,yes,done
+16,steering column,no,mentioned,yes,yes,done
+17,steering rack,no,mentioned,yes,yes,done
+18,aero package; aerodynamic package; aero devices; aerodynamic devices,no,mentioned,yes,rev2,done
+19,rear wing,no,not_mentioned,yes,,done
+20,undertray; diffuser,no,mentioned,yes,,done
+21,endplates,no,mentioned,yes,,done
+22,front wing,no,mentioned,yes,,done
+23,AArm; AArms,no,not_mentioned,yes,rev2,done
+24,toe rod; toe rods,no,not_mentioned,yes,-,done
+25,tie rod; tie rods,no,mentioned,yes,rev2,done
+26,pull rod; pull rods,no,not_mentioned,yes,rev2,done
+27,ARBs; anti-roll bars,no,not_mentioned,yes,rev2,done
+28,seat,no,mentioned,yes,yes,done
+29,nosecone and body panels,no,mentioned,yes,rev2,done
+30,motor,no,mentioned,yes,yes,done
+31,firewall,no,mentioned,yes,rev2,done

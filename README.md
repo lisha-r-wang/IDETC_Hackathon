@@ -1,2 +1,2 @@
-# IDETC_Hackathon
-design_qa RAG improvement
+# IDETC_Hackathon 2025
+**design_qa RAG improvement using llm** 
