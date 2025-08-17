@@ -1,0 +1,1206 @@
+TABLE OF CONTENTSGR - General Regulations ....................................................................................................................5GR.1 
+Formula SAE Competition Objective .................................................................................................... 5 
+GR.2 
+Organizer Authority .............................................................................................................................. 6 
+GR.3 
+Team Responsibility ............................................................................................................................. 6 
+GR.4 
+Rules Authority and Issue ..................................................................................................................... 7 
+GR.5 
+Rules of Conduct .................................................................................................................................. 7 
+GR.6 
+Rules Format and Use .......................................................................................................................... 8 
+GR.7 
+Rules Questions .................................................................................................................................... 9 
+GR.8 
+Protests ................................................................................................................................................ 9 
+GR.9 
+Vehicle Eligibility ................................................................................................................................ 10AD - Administrative Regulations ....................................................................................................... 11AD.1 
+The Formula SAE Series ...................................................................................................................... 11 
+AD.2 
+Official Information Sources .............................................................................................................. 11 
+AD.3 
+Individual Participation Requirements ............................................................................................... 11 
+AD.4 
+Individual Registration Requirements ................................................................................................ 12 
+AD.5 
+Team Advisors and Officers................................................................................................................ 12 
+AD.6 
+Competition Registration ................................................................................................................... 13 
+AD.7 
+Competition Site ................................................................................................................................ 14DR - Document Requirements .......................................................................................................... 16DR.1 
+Documentation .................................................................................................................................. 16 
+DR.2 
+Submission Details ............................................................................................................................. 16 
+DR.3 
+Submission Penalties .......................................................................................................................... 17V - Vehicle Requirements ................................................................................................................. 19V.1 
+Configuration ..................................................................................................................................... 19 
+V.2 
+Driver .................................................................................................................................................. 20 
+V.3 
+Suspension and Steering .................................................................................................................... 20 
+V.4 
+Wheels and Tires ................................................................................................................................ 21F - Chassis and Structural .................................................................................................................. 23F.1 
+Definitions .......................................................................................................................................... 23 
+F.2 
+Documentation .................................................................................................................................. 25 
+F.3 
+Tubing and Material ........................................................................................................................... 25 
+F.4 
+Composite and Other Materials ......................................................................................................... 28 
+F.5 
+Chassis Requirements ........................................................................................................................ 30 
+F.6 
+Tube Frames ....................................................................................................................................... 37 
+F.7 
+Monocoque ........................................................................................................................................ 39 
+F.8 
+Front Chassis Protection .................................................................................................................... 43 
+F.9 
+Fuel System (IC Only) ......................................................................................................................... 48 
+F.10 
+Accumulator Container (EV Only) ...................................................................................................... 49 
+F.11 
+Tractive System (EV Only) .................................................................................................................. 52T - Technical Aspects ........................................................................................................................ 54T.1 
+Cockpit................................................................................................................................................ 54 
+T.2 
+Driver Accommodation ...................................................................................................................... 58 
+T.3 
+Brakes ................................................................................................................................................. 63 
+T.4 
+Electronic Throttle Components ........................................................................................................ 64 
+T.5 
+Powertrain .......................................................................................................................................... 66
+T.6 
+Pressurized Systems ........................................................................................................................... 68 
+T.7 
+Bodywork and Aerodynamic Devices ................................................................................................. 69 
+T.8 
+Fasteners ............................................................................................................................................ 71 
+T.9 
+Electrical Equipment .......................................................................................................................... 72VE - Vehicle and Driver Equipment ................................................................................................... 74VE.1 
+Vehicle Identification ......................................................................................................................... 74 
+VE.2 
+Vehicle Equipment ............................................................................................................................. 74 
+VE.3 
+Driver Equipment ............................................................................................................................... 76IC - Internal Combustion Engine Vehicles .......................................................................................... 78IC.1 
+General Requirements ....................................................................................................................... 78 
+IC.2 
+Air Intake System ............................................................................................................................... 78 
+IC.3 
+Throttle .............................................................................................................................................. 80 
+IC.4 
+Electronic Throttle Control ................................................................................................................. 80 
+IC.5 
+Fuel and Fuel System ......................................................................................................................... 83 
+IC.6 
+Fuel Injection ...................................................................................................................................... 85 
+IC.7 
+Exhaust and Noise Control ................................................................................................................. 87 
+IC.8 
+Electrical ............................................................................................................................................. 87 
+IC.9 
+Shutdown System............................................................................................................................... 88EV - Electric Vehicles ........................................................................................................................ 89EV.1 
+Definitions .......................................................................................................................................... 89 
+EV.2 
+Documentation .................................................................................................................................. 89 
+EV.3 
+Electrical Limitations .......................................................................................................................... 89 
+EV.4 
+Components ....................................................................................................................................... 90 
+EV.5 
+Energy Storage ................................................................................................................................... 93 
+EV.6 
+Electrical System ................................................................................................................................ 97 
+EV.7 
+Shutdown System............................................................................................................................. 100 
+EV.8 
+Charger Requirements ..................................................................................................................... 105 
+EV.9 
+Vehicle Operations ........................................................................................................................... 106 
+EV.10 Event Site Activities .......................................................................................................................... 107 
+EV.11 Work Practices ................................................................................................................................. 107IN - Technical Inspection ................................................................................................................ 109IN.1 
+Inspection Requirements ................................................................................................................. 109 
+IN.2 
+Inspection Conduct .......................................................................................................................... 109 
+IN.3 
+Initial Inspection ............................................................................................................................... 110 
+IN.4 
+Electrical Technical Inspection (EV Only) ......................................................................................... 110 
+IN.5 
+Driver Cockpit Checks ....................................................................................................................... 111 
+IN.6 
+Driver Template Inspections ............................................................................................................ 112 
+IN.7 
+Cockpit Template Inspections .......................................................................................................... 112 
+IN.8 
+Mechanical Technical Inspection ..................................................................................................... 112 
+IN.9 
+Tilt Test ............................................................................................................................................. 113 
+IN.10 Noise and Switch Test (IC Only) ....................................................................................................... 114 
+IN.11 Rain Test (EV Only) ........................................................................................................................... 115 
+IN.12 Brake Test ......................................................................................................................................... 115 
+IN.13 Inspection Approval ......................................................................................................................... 116 
+IN.14 Modifications and Repairs ............................................................................................................... 116 
+IN.15 Reinspection ..................................................................................................................................... 117
+S - Static Events .............................................................................................................................. 118S.1 
+General Static ................................................................................................................................... 118 
+S.2 
+Presentation Event ........................................................................................................................... 118 
+S.3 
+Cost and Manufacturing Event ......................................................................................................... 119 
+S.4 
+Design Event ..................................................................................................................................... 123D - Dynamic Events ........................................................................................................................ 125D.1 
+General Dynamic .............................................................................................................................. 125 
+D.2 
+Pit and Paddock ................................................................................................................................ 125 
+D.3 
+Driving .............................................................................................................................................. 126 
+D.4 
+Flags ................................................................................................................................................. 127 
+D.5 
+Weather Conditions ......................................................................................................................... 127 
+D.6 
+Tires and Tire Changes ..................................................................................................................... 128 
+D.7 
+Driver Limitations ............................................................................................................................. 129 
+D.8 
+Definitions ........................................................................................................................................ 129 
+D.9 
+Acceleration Event ........................................................................................................................... 129 
+D.10 
+Skidpad Event ................................................................................................................................... 130 
+D.11 
+Autocross Event ............................................................................................................................... 132 
+D.12 
+Endurance Event .............................................................................................................................. 133 
+D.13 
+Efficiency Event ................................................................................................................................ 138 
+D.14 
+Post Endurance ................................................................................................................................ 140Verify this is the current version of this document at the FSAE Online website www.fsaeonline.comREVISION SUMMARYProvided as a courtesy.  Not a complete list.  See GR.3.3 and GR.6.61.0 
+Changes in sections:  GR.2, GR.3, F.3.5.2, F.4.3.2, F.7.4, F.8.5.6, F.8.6, F.10.1, F.10.5.8, T.1.9, 
+T.3.2, T.6.1.7, EV.10, EV.11, D.12.13, D.13.4Selected changes:  V.1.4.2, F.5.7.7, F.6.5.3, F.7.1.4, T.5.2.2, T.5.4.3, T.9.2.1, EV.4.4.1, EV.5.3.2.b, 
+EV.6.6.6, EV.7.3.5.b
+GR - GENERAL REGULATIONSGR.1 FORMULA SAE COMPETITION OBJECTIVEGR.1.1 
+Collegiate Design SeriesSAE International's Collegiate Design Series (CDS) programs prepare undergraduate and 
+graduate engineering students in a variety of disciplines for future employment in mobility-
+related industries by challenging them with a real world, engineering application.Through the Engineering Design Process, experiences may include but are not limited to:• Project management, budgeting, communication, and resource management skills 
+• Team collaboration 
+• Applying industry rules and regulations 
+• Design, build, and test the performance of a real vehicle 
+• Interact and compete with other students from around the globe   
+• Develop and prepare technical documentationStudents also gain valuable exposure to and engagement with industry professionals to 
+enhance 21st century learning skills, to build their own network and help prepare them for the 
+workforce after graduation.GR.1.2 
+Formula SAE ConceptThe Formula SAE® competitions challenge teams of university undergraduate and graduate 
+students to conceive, design, fabricate, develop and compete with small, formula style 
+vehicles.GR.1.3 
+Engineering CompetitionFormula SAE® is an engineering education competition that requires performance 
+demonstration of vehicles in a series of events, both off track and on track against the clock.Each competition gives teams the chance to demonstrate their creativity and engineering 
+skills in comparison to teams from other universities around the world.GR.1.4 
+Vehicle Design ObjectivesGR.1.4.1 Teams are to assume that they work for an engineering firm that is designing, fabricating,testing and demonstrating a prototype vehicle.GR.1.4.2 The vehicle should have high performance and be sufficiently durable to successfully completeall the events at the Formula SAE competitions.GR.1.4.3 Additional design factors include: aesthetics, cost, ergonomics, maintainability, andmanufacturability.GR.1.4.4 Each design will be judged and evaluated against other competing designs in a series of Staticand Dynamic events to determine the vehicle that best meets the design goals and may be 
+profitably built and marketed.GR.1.5 
+Good Engineering PracticesVehicles entered into Formula SAE competitions should be designed and fabricated in 
+accordance with good engineering practices.
+GR.2 ORGANIZER AUTHORITYGR.2.1 
+General AuthoritySAE International and the competition organizing bodies reserve the right to revise the 
+schedule of any competition and/or interpret or modify the competition rules at any time and 
+in any manner that is, in their sole judgment, required for the efficient operation of the event 
+or the Formula SAE series as a whole.GR.2.2 
+Right to ImpoundGR.2.2.1 SAE International and other competition organizing bodies may impound any onsite vehicle orpart of the vehicle at any time during a competition.GR.2.2.2 Team access to the vehicle or impound may be restricted.GR.2.3 
+Problem ResolutionAny problems that arise during the competition will be resolved through the onsite organizers 
+and the decision will be final.GR.2.4 
+Restriction on Vehicle UseSAE International, competition organizer(s) and officials are not responsible for use of vehicles 
+designed in compliance with these Formula SAE Rules outside of the official Formula SAE 
+competitions.GR.3 TEAM RESPONSIBILITYGR.3.1 
+Rules ComplianceBy registering for a Formula SAE competition, the team, members of the team as individuals, 
+faculty advisors and other personnel of the entering university agree to comply with, and be 
+bound by, these rules and all rule interpretations or procedures issued or announced by SAE 
+International, the Formula SAE Rules Committee and the other organizing bodies.GR.3.2 
+Student ProjectBy registering for any university program, the University registered assumes liability of the 
+student project.GR.3.3 
+Understanding the RulesTeams, team members as individuals and faculty advisors, are responsible for reading and 
+understanding the rules in effect for the competition in which they are participating.GR.3.4 
+Participating in the CompetitionGR.3.4.1 Teams, individual team members, faculty advisors and other representatives of a registereduniversity who are present onsite at a competition are “participating in the competition” from 
+the time they arrive at the competition site until they depart the site at the conclusion of the 
+competition or earlier by withdrawing.GR.3.4.2 All team members, faculty advisors and other university representatives must cooperate with,and follow all instructions from, competition organizers, officials and judges.GR.3.5 
+Forfeit for Non AppearanceGR.3.5.1 It is the responsibility of each team to be in the right place at the right time.GR.3.5.2 If a team is not present and ready to compete at the scheduled time, they forfeit their attemptat that event.
+GR.3.5.3 There are no makeups for missed appearances.GR.4 RULES AUTHORITY AND ISSUEGR.4.1 
+Rules AuthorityThe Formula SAE Rules are the responsibility of the Formula SAE Rules Committee and are 
+issued under the authority of the SAE International Collegiate Design Series.GR.4.2 
+Rules ValidityGR.4.2.1 The Formula SAE Rules posted on the website and dated for the calendar year of thecompetition are the rules in effect for the competition.GR.4.2.2 Rules appendices or supplements may be posted on the website and incorporated into therules by reference.GR.4.2.3 Additional guidance or reference documents may be posted on the website.GR.4.2.4 Any rules, questions, or resolutions from previous years are not valid for the currentcompetition year.GR.4.3 
+Rules AlterationsGR.4.3.1 The Formula SAE rules may be revised, updated, or amended at any timeGR.4.3.2 Official designated announcements from the Formula SAE Rules Committee, SAE Internationalor the other organizing bodies are to be considered part of, and have the same validity as, 
+these rules.GR.4.3.3 Draft rules or proposals may be issued for comments, however they are a courtesy, are notvalid for any competitions, and may or may not be implemented in whole or in part.GR.4.4 
+Rules ComplianceGR.4.4.1 All participants must comply with the latest issue of the Formula SAE Rules.   Refer to the FSAEOnline Website to verify the current version.GR.4.4.2 Teams and team members must comply with the general rules and any specific rules for eachcompetition they enter.GR.4.4.3 Any regulations pertaining to the use of the competition site by teams or individuals andwhich are posted, announced and/or otherwise publicly available are incorporated into the 
+Formula SAE Rules by reference.As examples, all competition site waiver requirements, speed limits, parking and facility use 
+rules apply to Formula SAE participants.GR.4.5 
+Violations on IntentThe violation of the intent of a rule will be considered a violation of the rule itself.GR.5 RULES OF CONDUCTGR.5.1 
+Unsportsmanlike ConductIf unsportsmanlike conduct occurs, the team will receive a warning from an official.A second violation will result in expulsion of the team from the competition.GR.5.2 
+Official InstructionsFailure of a team member to follow an instruction or command directed specifically to that 
+team or team member will result in a 25 point penalty.
+GR.5.3 
+Arguments with OfficialsArgument with, or disobedience of, any official may result in the team being eliminated from 
+the competition.All members of the team may be immediately escorted from the grounds.GR.5.4 
+Alcohol and Illegal MaterialGR.5.4.1 Alcohol, illegal drugs, weapons or other illegal material are prohibited on the competition siteduring the entire competition.GR.5.4.2 Any violation of this rule by any team member or faculty advisor will cause immediatedisqualification and expulsion of the entire team.GR.5.4.3 Any use of drugs, or the use of alcohol by an underage individual will be reported to the localauthorities.GR.5.5 
+Smoking – ProhibitedSmoking and e-cigarette use is prohibited in all competition areas.GR.6 RULES FORMAT AND USEGR.6.1 
+Definition of Terms• 
+Must - designates a requirement• 
+Must NOT - designates a prohibition or restriction• 
+Should - gives an expectation• 
+May - gives permission, not a requirement and not a recommendationGR.6.2 
+Capitalized TermsItems or areas which have specific definitions or are covered by specific rules are capitalized.For example, “Rules Questions” or “Primary Structure”GR.6.3 
+HeadingsThe article, section and paragraph headings in these rules are provided only to facilitate 
+reading: they do not affect the paragraph contents.GR.6.4 
+ApplicabilityGR.6.4.1 Unless otherwise specified, all rules apply to all vehicles at all timesGR.6.4.2 Rules specific to vehicles based on their powertrain will be specified as such in the rule text:• 
+Internal Combustion 
+ “IC” or “IC Only”• 
+Electric Vehicle  
+“EV” or “EV Only”GR.6.5 
+Figures and IllustrationsFigures and illustrations give clarification or guidance, but are rules only when referred to in 
+the text of a ruleGR.6.6 
+Change IdentificationAny summary of changed rules and/or changed portions marked in the rules themselves are 
+provided for courtesy, and may or may not include all changes.
+GR.7 RULES QUESTIONSGR.7.1 
+Question TypesDesignated officials will answer questions that are not already answered in the rules or FAQs 
+or that require new or novel rule interpretations.Rules Questions may also be used to request approval, as specified in these rules.GR.7.2 
+Question FormatGR.7.2.1 All Rules Questions must include:• 
+Full name and contact information of the person submitting the question• 
+University name – no abbreviations• 
+The specific competition your team has, or is planning to, enter.• 
+Number of the applicable rule(s)GR.7.2.2 Response Time• 
+Please allow a minimum of two weeks for a response• 
+Do not resubmit questionsGR.7.2.3 Submission Addressesa. 
+Teams entering Formula SAE competitions:  Follow the link and instructions published on 
+the FSAE Online Website to "Submit a Rules Question"b. 
+Teams entering other competitions please visit those respective competition websites 
+for further instructions.GR.7.3 
+Question PublicationAny submitted question and the official answer may be reproduced and freely distributed, in 
+both complete and edited versions.GR.8 PROTESTSGR.8.1 
+Cause for ProtestA team may protest any rule interpretation, score or official action (unless specifically 
+excluded from Protest) which they feel has caused some actual, non trivial, harm to their 
+team, or has had a substantive effect on their score.GR.8.2 
+Preliminary Review – RequiredQuestions about scoring, judging, policies or any official action must be brought to the 
+attention of the organizer or SAE International staff for an informal preliminary review before 
+a protest may be filed.GR.8.3 
+Protest Format• 
+All protests must be filed in writing• 
+The completed protest must be presented to the organizer or SAE International staff by 
+the team captain.• 
+Team video or data acquisition will not be reviewed as part of a protest.GR.8.4 
+Protest Point BondA team must post a 25 point protest bond which will be forfeited if their protest is rejected.
+GR.8.5 
+Protest PeriodProtests concerning any aspect of the competition must be filed in the protest period 
+announced by the competition organizers or 30 minutes of the posting of the scores of the 
+event to which the protest relates.GR.8.6 
+DecisionThe decision regarding any protest is final.GR.9 VEHICLE ELIGIBILITYGR.9.1 
+Student Developed VehicleGR.9.1.1 Vehicles entered into Formula SAE competitions must be conceived, designed, fabricated andmaintained by the student team members without direct involvement from professional 
+engineers, automotive engineers, racers, machinists or related professionals.GR.9.1.2 Information SourcesThe student team may use any literature or knowledge related to design and information from 
+professionals or from academics as long as the information is given as a discussion of 
+alternatives with their pros and cons.GR.9.1.3 Professional AssistanceProfessionals must not make design decisions or drawings.  The Faculty Advisor may be 
+required to sign a statement of compliance with this restriction.GR.9.1.4 Student FabricationStudents should perform all fabrication tasksGR.9.2 
+DefinitionsGR.9.2.1 Competition YearThe period beginning at the event of the Formula SAE series where the vehicle first competes 
+and continuing until the start of the corresponding event held approximately 12 months later.GR.9.2.2 First Year VehicleA vehicle which has, at minimum, a newly built chassis and is in its initial Competition YearGR.9.2.3 Second Year VehicleA vehicle which has competed in a previous Competition YearGR.9.2.4 Third Year VehicleA vehicle which has competed in more than one previous Competition YearGR.9.3 
+Formula SAE Competition EligibilityGR.9.3.1 Only First Year Vehicles may enter the Formula SAE Competitions.a. 
+If there is any question about the status as a First Year Vehicle, the team must provide 
+additional information and/or evidence.GR.9.3.2 Second Year Vehicles must not enter Formula SAE Competitions, unless permitted by theorganizer of the specific competition.GR.9.3.3 Third Year Vehicles must not enter any Formula SAE Competitions
+AD - ADMINISTRATIVE REGULATIONSAD.1 THE FORMULA SAE SERIESAD.1.1 
+Rule VariationsAll competitions in the Formula SAE Series may post rule variations specific to the operation of 
+the events in their countries. Vehicle design requirements and restrictions will remain 
+unchanged.  Any rule variations will be posted on the websites specific to those competitions.AD.1.2 
+Official Announcements and Competition InformationTeams must read the published announcements by SAE International and the other organizing 
+bodies and be familiar with all official announcements concerning the competitions and any 
+released rules interpretations.AD.1.3 
+Official LanguagesThe official language of the Formula SAE series is English.Document submissions, presentations and discussions in English are acceptable at all 
+competitions in the series.AD.2 OFFICIAL INFORMATION SOURCESThe following websites are referenced in these rules. Refer to the websites for additional 
+information and resources.AD.2.1 
+Event WebsiteThe Event Website for Formula SAE is specific to each competition, refer to:https://www.sae.org/attend/student-eventsAD.2.2 
+FSAE Online WebsiteThe FSAE Online website is at:  
+http://fsaeonline.com/AD.2.2.1 Documents, forms, and information are accessed from the “Series Resources” linkAD.2.2.2 Each registered team must have an account on the FSAE Online Website.AD.2.2.3 Each team must have one or more persons as Team Captain.  The Team Captain must acceptTeam Members.AD.2.2.4 Only persons designated Team Members or Team Captains are able to upload documents tothe website.AD.2.3 
+ContactsContact collegiatecompetitions@sae.org with any problems/comments/concernsConsult the specific website for the other competitions requirements.AD.3 INDIVIDUAL PARTICIPATION REQUIREMENTSAD.3.1 
+EligibilityAD.3.1.1 Team members must be enrolled as degree seeking undergraduate or graduate students inthe college or university of the team with which they are participating.AD.3.1.2 Team members who have graduated during the seven month period prior to the competitionremain eligible to participate.
+AD.3.1.3 Teams which are formed with members from two or more universities are treated as a singleteam.   A student at any university making up the team may compete at any competition 
+where the team participates.  The multiple universities are treated as one university with the 
+same eligibility requirements.AD.3.1.4 Each team member may participate at a competition for only one team.  This includescompetitions where the University enters both IC and EV teams.AD.3.2 
+AgeTeam members must be minimum 18 years of age.AD.3.3 
+Driver’s LicenseTeam members who will drive a competition vehicle at any time during a competition must 
+hold a valid, government issued driver’s license.AD.3.4 
+Society MembershipTeam members must be members of SAE InternationalProof of membership, such as membership card, is required at the competition.AD.3.5 
+Medical InsuranceIndividual medical insurance coverage is required and is the sole responsibility of the 
+participant.AD.3.6 
+Disabled AccessibilityTeam members who require accessibility for areas outside of ADA Compliance must contact 
+organizers at collegiatecompetitions@sae.org prior to start of competition.AD.4 INDIVIDUAL REGISTRATION REQUIREMENTSAD.4.1 
+Preliminary RegistrationAD.4.1.1 All students and faculty must be affiliated to your respective school /college/university on theEvent Website before the deadline shown on the Event WebsiteAD.4.1.2 International student participants (or unaffiliated Faculty Advisors) who are not SAEInternational members must create a free customer account profile on www.sae.org.  Upon 
+completion, please email collegiatecompetitions@sae.org the assigned customer number 
+stating also the event and university affiliation.AD.4.2 
+Onsite RegistrationAD.4.2.1 All team members and faculty advisors must register at the competition siteAD.4.2.2 All onsite participants, including students, faculty and volunteers, must sign a liability waiverupon registering onsite.AD.4.2.3 Onsite registration must be completed before the vehicle may be unloaded, uncrated orworked upon in any manner.AD.5 TEAM ADVISORS AND OFFICERSAD.5.1 
+Faculty AdvisorAD.5.1.1 Each team must have a Faculty Advisor appointed by their university.AD.5.1.2 The Faculty Advisor should accompany the team to the competition and will be considered bythe officials to be the official university representative.
+AD.5.1.3 Faculty Advisors:a. 
+May advise their teams on general engineering and engineering project management 
+theoryb. 
+Must not design, build or repair any part of the vehiclec. 
+Must not develop any documentation or presentationAD.5.2 
+Electrical System Officer  (EV Only)The Electrical System Officer (ESO) is responsible for all electrical operations of the vehicle 
+during the eventAD.5.2.1 Every participating team must appoint one or more ESO for the eventAD.5.2.2 The ESO must meet the following:a. 
+Is a valid team member, see AD.3 Individual Participation Requirementsb. 
+One or more ESO must not be a driver.c. 
+Is certified or has received appropriate practical training whether formal or informal for 
+working with High Voltage systems in automotive vehicles.Give details of the training on the ESO/ESA formAD.5.2.3 Duties of the ESO - see EV.11.1.1AD.5.3 
+Electric System Advisor  (EV Only)AD.5.3.1 The Electrical System Advisor (ESA) must be a professionally competent person(s) nominatedby the team who can advise on the electrical and control systems that will be integrated into 
+the vehicle.  The faculty advisor may also be the ESA if all the requirements below are met.AD.5.3.2 The ESA must supply details of their experience of electrical and/or control systemsengineering as used in the vehicle on the ESO/ESA form for approval by the organizers.AD.5.3.3 The ESA must be sufficiently qualified to advise the team on their proposed electrical andcontrol system designs based on significant experience of the technology being developed and 
+its implementation into vehicles or other safety critical systems. More than one person may 
+be needed.AD.5.3.4 The ESA must advise the team on the merits of any relevant engineering solutions.  Solutionsshould be discussed, questioned and approved before they are implemented into the final 
+vehicle design.AD.5.3.5 The ESA should advise the students on any required training to work with the systems on thevehicle.AD.5.3.6 The ESA must review the Electrical System Form and to confirm that in principle the vehiclehas been designed using good engineering practices.AD.5.3.7 The ESA must ensure that the team communicates any unusual aspects of the design to theorganizers to reduce the risk of exclusion or significant changes being required to pass 
+Technical Inspection.AD.6 COMPETITION REGISTRATIONAD.6.1 
+General InformationAD.6.1.1 Registration for Formula SAE competitions must be completed on the Event Website.AD.6.1.2 Refer to the individual competition websites for registration requirements for othercompetitions
+AD.6.2 
+Registration DetailsAD.6.2.1 Refer to the Event Website for specific registration requirements and details.• 
+Registration limits and Waitlist limits will be posted on the Event Website.• 
+Registration will open at the date and time posted on the Event Website.• 
+Registration(s) may have limitationsAD.6.2.2 Once a competition reaches the registration limit, a Waitlist will open.AD.6.2.3 Beginning on the date and time posted on the Event Website, any remaining slots will beavailable to any team on a first come, first serve basis.AD.6.2.4 Registration and the Waitlist will close at the date and time posted on the Event Website orwhen all available slots have been taken, whichever occurs first.AD.6.3 
+Registration FeesAD.6.3.1 Registration fees must be paid to the organizer by the deadline specified on the respectivecompetition website.AD.6.3.2 Registration fees are not refundable and not transferrable to any other competition.AD.6.4 
+WaitlistAD.6.4.1 Waitlisted teams must submit all documents by the same deadlines as registered teams toremain on the Waitlist.AD.6.4.2 Once a team withdraws from the competition, the organizer will inform the next team on theWaitlist by email (the individual who registered the team to the Waitlist) that a spot on the 
+registered list has opened.AD.6.4.3 The team will then have 24 hours to accept or reject the position and an additional 24 hoursto have the registration payment completed or in process.AD.6.5 
+WithdrawalsRegistered teams that will not attend the competition must inform the organizer, as posted on 
+the Event Website.AD.7 COMPETITION SITEAD.7.1 
+Personal VehiclesPersonal cars and trailers must be parked in designated areas only.  Only authorized vehicles 
+will be allowed in the track areas.AD.7.2 
+Motorcycles, Bicycles, Rollerblades, etc. - ProhibitedThe use of motorcycles, quads, bicycles, scooters, skateboards, rollerblades or similar person-
+carrying devices by team members and spectators in any part of the competition area, 
+including the paddocks, is prohibited.AD.7.3 
+Self-propelled Pit Carts, Tool Boxes, etc. - ProhibitedThe use of self-propelled pit carts, tool boxes, tire carriers or similar motorized devices in any 
+part of the competition site, including the paddocks, is prohibited.AD.7.4 
+Trash CleanupAD.7.4.1 Cleanup of trash and debris is the responsibility of the teams.• 
+The team’s work area should be kept uncluttered
+• 
+At the end of the day, each team must clean all debris from their area and help with 
+maintaining a clean paddockAD.7.4.2 Teams must remove all of their material and trash when leaving the site at the end of thecompetition.AD.7.4.3 Teams that abandon furniture, or that leave a paddock that requires special cleaning, will bebilled for removal and/or cleanup costs.
+DR - DOCUMENT REQUIREMENTSDR.1 DOCUMENTATIONDR.1.1 
+RequirementsDR.1.1.1 The documents supporting each vehicle must be submitted before the deadlines posted onthe Event Website or otherwise published by the organizer.DR.1.1.2 The procedures for submitting documents are published on the Event Website or otherwiseidentified by the organizer.DR.1.2 
+DefinitionsDR.1.2.1 Submission DateThe date and time of upload to the websiteDR.1.2.2 Submission DeadlineThe date and time by which the document must be uploaded or submittedDR.1.2.3 No Submissions Accepted AfterThe last date and time that documents may be uploaded or submittedDR.1.2.4 Late Submission• 
+Uploaded after the Submission Deadline and prior to No Submissions Accepted After• 
+Submitted largely incomplete prior to or after the Submission DeadlineDR.1.2.5 Not Submitted• 
+Not uploaded prior to No Submissions Accepted After• 
+Not in the specified form or formatDR.1.2.6 Amount LateThe number of days between the Submission Deadline and the Submission Date.Any partial day is rounded up to a full day.Examples: submitting a few minutes late would be one day penalty; submitting 25 hours late 
+would be two days penaltyDR.1.2.7 ReviewerA designated event official who is assigned to review and accept a SubmissionDR.2 SUBMISSION DETAILSDR.2.1 
+Submission LocationTeams entering Formula SAE competitions in North America must upload the required 
+documents to the team account on the FSAE Online Website, see AD.2.2DR.2.2 
+Submission Format RequirementsRefer to Table DR-1 Submission InformationDR.2.2.1 Template files with the required format must be used when specified in Table DR-1DR.2.2.2 Template files are available on the FSAE Online Website, see  AD.2.2.1DR.2.2.3 Do Not alter the format of any provided template files
+DR.2.2.4 Each submission must be one single file in the specified format (PDF - Portable Document File,XLSX - Microsoft Excel Worksheet File)DR.3 SUBMISSION PENALTIESDR.3.1 
+SubmissionsDR.3.1.1 Each team is responsible for confirming that their documents have been properly uploaded orsubmitted and that the deadlines have been metDR.3.1.2 Prior to the Submission Deadline:a. 
+Documents may be uploaded at any timeb. 
+Uploads may be replaced with new uploads without penaltyDR.3.1.3 If a Submitted Document revision is requested by the Reviewer, a new Submission Deadlinefor the revised document may applyDR.3.1.4 Teams will not be notified if a document is submitted incorrectlyDR.3.2 
+Penalty DetailDR.3.2.1 Late Submissions will receive a point penalty as shown in Table DR-2, subject to officialdiscretion.DR.3.2.2 Additional penalties will apply if Not Submitted, subject to official discretionDR.3.2.3 Penalties up to and including Removal of Team Entry may apply based on document reviews,subject to official discretionDR.3.3 
+Removal of Team EntryDR.3.3.1 The organizer may remove the team entry when the:a. 
+Identified documents are Not Submitted in 5 days or less from the deadline.  Removals 
+will take place after each Document Submission deadline.b. 
+Team does not respond to Reviewer requests or organizer communicationsDR.3.3.2 When a team entry will be removed:a. 
+The team will be notified prior to cancelling registrationb. 
+No refund of entry fees will be givenDR.3.4 
+Specific PenaltiesDR.3.4.1 Electronic Throttle Control (ETC)  (IC Only)a. 
+There is no point penalty for ETC documentsb. 
+The team will not be allowed to run ETC on their vehicle and must use mechanical 
+throttle operation when:• 
+The ETC Notice of Intent is Not Submitted• 
+The ETC Systems Form is Not Submitted, or is not acceptedDR.3.4.2 Fuel Type  IC.5.1There is no point penalty for a late fuel type order.  Once the deadline has passed, the team 
+will be allocated the basic fuel type.DR.3.4.3 Program SubmissionsPlease submit material requested for the Event Program by the published deadlines
+Table DR-1 Submission InformationSubmission 
+Referto:RequiredFormat:Submit in 
+File Format:PenaltyGroupStructural Equivalency Spreadsheet 
+(SES)   
+as applicable to your designF.2.1 
+see below 
+XLSX 
+TechETC - Notice of Intent 
+IC.4.3 
+see below 
+PDF 
+ETCETC – Systems Form (ETCSF) 
+IC.4.3 
+see below 
+XLSX 
+ETCEV – Electrical Systems Officer and 
+Electrical Systems Advisor FormAD.5.2,AD.5.3 
+see below 
+PDF 
+TechEV - Electrical System Form (ESF)  
+EV.2.1 
+see below 
+XLSX 
+TechPresentation  (if required, see S.2.4.1) 
+S.2.4 
+see S.2.4 
+see S.2.4 
+PresentCost Report 
+S.3.4 
+see S.3.4.2 
+(1) 
+CostCost Addendum 
+S.3.7 
+see below 
+see S.3.7 
+noneDesign Briefing 
+S.4.3 
+see below 
+PDF 
+DesignVehicle Drawings 
+S.4.4 
+see S.4.4.1 
+PDF 
+DesignDesign Spec Sheet 
+S.4.5 
+see below 
+XLSX 
+Design 
+ 
+ 
+Format:  Use the template file or form available on the FSAE Online Website AD.2.2.1Note (1):  Refer to the FSAE Online website for submission requirementsTable DR-2 Submission Penalty InformationPenaltyGroupPenalty 
+Points perDayMaximumPoint 
+PenaltyNot Submitted 5 Days after the DeadlineTech 
+-10 
+-50 
+Removal of Team Entry  -  see DR.3.3ETC 
+Not Approved to use ETC  -  see DR.3.4.1Present 
+-10 
+-50 
+Removed from Presentation Event 
+Score 0 points in Presentation EventCost 
+-10 
+-50 
+Removed from Cost Event 
+Score -100 points in Cost EventDesign 
+-10 
+-50 
+Removed from Design Event 
+Score 0 points in Design Event
+V - VEHICLE REQUIREMENTSV.1 
+CONFIGURATIONThe vehicle must be open wheeled and open cockpit (a formula style body) with four wheels 
+that are not in a straight line.V.1.1 
+Open WheelOpen Wheel vehicles must satisfy all of the following criteria:a. 
+The top 180° of the wheels/tires must be unobstructed when viewed from vertically 
+above the wheel.b. 
+The wheels/tires must be unobstructed when viewed from the side.c. 
+No part of the vehicle may enter a keep out zone defined by two lines extending 
+vertically from positions 75 mm in front of and 75 mm aft of, the outer diameter of the 
+front and rear tires in the side view elevation of the vehicle, with tires steered straight 
+ahead. This keep out zone will extend laterally from the outside plane of the wheel/tire 
+to the inboard plane of the wheel/tire.V.1.2 
+WheelbaseThe vehicle must have a minimum wheelbase of 1525 mmV.1.3 
+Vehicle TrackV.1.3.1 
+The track and center of gravity must combine to provide sufficient rollover stability.  See 
+IN.9.2V.1.3.2 
+The smaller track of the vehicle (front or rear) must be no less than 75% of the larger track.
+V.1.4 
+Ground ClearanceV.1.4.1 
+Ground clearance must be sufficient to prevent any portion of the vehicle except the tires 
+from touching the ground during dynamic eventsV.1.4.2 
+The distance to the ground below the Lower Side Impact Structure ( F.6.4.5, F.7.5.1 ) at its 
+lowest point should be 75 mm or lessV.1.4.3 
+Intentional or excessive ground contact of any portion of the vehicle other than the tires will 
+forfeit a run or an entire dynamic eventThe intent is that sliding skirts or other devices that by design, fabrication or as a consequence 
+of moving, contact the track surface are prohibited and any unintended contact with the 
+ground which causes damage, or in the opinion of the Dynamic Event Officials could result in 
+damage to the track, will result in forfeit of a run or an entire dynamic eventV.2 
+DRIVERV.2.1 
+AccommodationV.2.1.1 
+The vehicle must be able to accommodate drivers of sizes ranging from 5th percentile female 
+up to 95th percentile male.• 
+Accommodation includes driver position, driver controls, and driver equipment.• 
+Anthropometric data may be found on the FSAE Online Website.V.2.1.2 
+The driver’s head and hands must not contact the ground in any rollover attitude.V.2.2 
+Visibilitya. 
+The driver must have sufficient visibility to the front and sides of the vehicleb. 
+When seated in a normal driving position, the driver must have a minimum field of vision 
+of 100° to both sidesc. 
+If mirrors are required for this rule, they must remain in place and adjusted to enable the 
+required visibility throughout all dynamic events.V.3 
+SUSPENSION AND STEERINGV.3.1 
+SuspensionV.3.1.1 
+The vehicle must have a fully operational suspension system with shock absorbers, front and 
+rear, with usable minimum wheel travel of 50 mm, with a driver seated.V.3.1.2 
+Officials may disqualify vehicles which do not represent a serious attempt at an operational 
+suspension system, or which demonstrate handling inappropriate for an autocross circuit.V.3.1.3 
+All suspension mounting points must be visible at Technical Inspection by direct view or by 
+removing any covers.V.3.1.4 
+Fasteners in the Suspension system are  Critical Fasteners, see T.8.2V.3.1.5 
+All spherical rod ends and spherical bearings on the suspension and steering must be one of:• 
+Mounted in double shear• 
+Captured by having a screw/bolt head or washer with an outside diameter that is larger 
+than spherical bearing housing inside diameter.V.3.2 
+SteeringV.3.2.1 
+The Steering Wheel must be mechanically connected to the front wheels
+V.3.2.2 
+Electrically actuated steering of the front wheels is prohibitedV.3.2.3 
+Steering systems must use a rigid mechanical linkage capable of tension and compression 
+loads for operationV.3.2.4 
+The steering system must have positive steering stops that prevent the steering linkages from 
+locking up (the inversion of a four bar linkage at one of the pivots). The stops:a. 
+Must prevent the wheels and tires from contacting suspension, bodywork, or Chassis 
+during the track eventsb. 
+May be placed on the uprights or on the rackV.3.2.5 
+Allowable steering system free play is limited to seven degrees (7°) total measured at the 
+steering wheel.V.3.2.6 
+The steering rack must be mechanically attached to the Chassis  F.5.14V.3.2.7 
+Joints between all components attaching the Steering Wheel to the steering rack must be 
+mechanical and be visible at Technical Inspection. Bonded joints without a mechanical backup 
+are not permitted.V.3.2.8 
+Fasteners in the steering system are Critical Fasteners, see T.8.2V.3.2.9 
+Spherical rod ends and spherical bearings in the steering must meet V.3.1.5 aboveV.3.2.10 Rear wheel steering may be used.a. 
+Rear wheel steering must incorporate mechanical stops to limit the range of angular 
+movement of the rear wheels to a maximum of six degrees (6°).b. 
+The team must provide the ability for the steering angle range to be verified at Technical 
+Inspection with a driver in the vehicle.c. 
+Rear wheel steering may be electrically actuated.V.3.3 
+Steering WheelV.3.3.1 
+In any angular position, the Steering Wheel must meet T.1.4.4V.3.3.2 
+The Steering Wheel must be attached to the column with a quick disconnect.V.3.3.3 
+The driver must be able to operate the quick disconnect while in the normal driving position 
+with gloves on.V.3.3.4 
+The Steering Wheel must have a continuous perimeter that is near circular or near oval.The outer perimeter profile may have some straight sections, but no concave sections. “H”, 
+“Figure 8”, or cutout wheels are not allowed.V.4 
+WHEELS AND TIRESV.4.1 
+Wheel SizeWheels must be 203.2 mm (8.0 inches) or more in diameter.V.4.2 
+Wheel AttachmentV.4.2.1 
+Any wheel mounting system that uses a single retaining nut must incorporate a device to 
+retain the nut and the wheel if the nut loosens.A second nut (jam nut) does not meet this requirementV.4.2.2 
+Teams using modified lug bolts or custom designs must provide proof that Good Engineering 
+Practices have been followed in their design.V.4.2.3 
+If used, aluminum wheel nuts must be hard anodized and in pristine condition.
+V.4.3 
+TiresVehicles may have two types of tires, Dry and WetV.4.3.1 
+Dry Tiresa. 
+The tires on the vehicle when it is presented for Technical Inspection.b. 
+May be any size or type, slicks or treaded.V.4.3.2 
+Wet TiresAny size or type of treaded or grooved tire where:• 
+The tread pattern or grooves were molded in by the tire manufacturer, or were cut by 
+the tire manufacturer or appointed agent.Any grooves that have been cut must have documented proof that this rule was met• 
+There is a minimum tread depth of 2.4 mmV.4.3.3 
+Tire Seta. 
+All four Dry Tires and Wheels or all four Wet Tires and Wheels do not have to be 
+identical.b. 
+Once each tire set has been presented for Technical Inspection, any tire compound or 
+size, or wheel type or size must not be changed.V.4.3.4 
+Tire Pressurea. 
+Tire Pressure must be in the range allowed by the manufacturer at all times.b. 
+Tire Pressure may be inspected at any timeV.4.3.5 
+Requirements for All Tiresa. 
+Teams must not perform any hand cutting, grooving or modification of the tires.b. 
+Tire warmers are not allowed.c. 
+No traction enhancers may be applied to the tires at any time onsite at the competition.
+F - CHASSIS AND STRUCTURALF.1 
+DEFINITIONSF.1.1 
+ChassisThe fabricated structural assembly that supports all functional vehicle systems.This assembly may be a single fabricated structure, multiple fabricated structures or a 
+combination of composite and welded structures.F.1.2 
+Frame MemberA minimum representative single piece of uncut, continuous tubing.F.1.3 
+MonocoqueA type of Chassis where loads are supported by the external panelsF.1.4 
+Main HoopA roll bar located alongside or immediately aft of the driver’s torso.F.1.5 
+Front HoopA roll bar located above the driver’s legs, in proximity to the steering wheel.F.1.6 
+Roll Hoop(s)Referring to both the Front Hoop AND the Main HoopF.1.7 
+Roll Hoop Bracing SupportsThe structure from the lower end of the Roll Hoop Bracing back to the Roll Hoop(s).F.1.8 
+Front BulkheadA planar structure that provides protection for the driver’s feet.F.1.9 
+Impact AttenuatorA deformable, energy absorbing device located forward of the Front Bulkhead.F.1.10 
+Primary StructureThe combination of the following components:• 
+Front Bulkhead and Front Bulkhead Support• 
+Front Hoop, Main Hoop, Roll Hoop Braces and Supports• 
+Side Impact Structure• 
+(EV Only)  Tractive System Protection and Rear Impact Protection• 
+Any Frame Members, guides, or supports that transfer load from the Driver Restraint 
+SystemF.1.11 
+Primary Structure EnvelopeA volume enclosed by multiple tangent planes, each of which follows the exact outline of the 
+Primary Structure Frame MembersF.1.12 
+Major StructureThe portion of the Chassis that lies inside the Primary Structure Envelope, excluding the Main 
+Hoop Bracing and the portion of the Main Hoop above a horizontal plane located at the top of 
+the Upper Side Impact Member or top of the Side Impact Zone.
+F.1.13 
+Rollover Protection EnvelopeThe Primary Structure plus a plane from the top of the Main Hoop to the top of the Front 
+Hoop, plus a plane from the top of the Main Hoop to the rearmost Triangulated structural 
+tube, or monocoque equivalent.* If there are no Triangulated Structural members aft of the Main Hoop, the Rollover 
+Protection Envelope ends at the rear plane of the Main HoopF.1.14 
+Tire Surface EnvelopeThe volume enclosed by tangent lines between the Main Hoop and the outside edge of each 
+of the four tires.F.1.15 
+Component EnvelopeThe area that is inside a plane from the top of the Main Hoop to the top of the Front 
+Bulkhead, plus a plane from the top of the Main Hoop to the rearmost Triangulated structural 
+tube, or monocoque equivalent.      * see note in step F.1.13 aboveF.1.16 
+Buckling Modulus (EI)Equal to E*I, where E = modulus of Elasticity, and I = area moment of inertia about the 
+weakest axis.F.1.17 
+TriangulationAn arrangement of Frame Members where all members and segments of members between 
+bends or nodes with Structural tubes form a structure composed entirely of triangles.a. 
+This is generally required between an upper member and a lower member, both of 
+which may have multiple segments requiring a diagonal to form multiple triangles.b. 
+This is also what is meant by “properly triangulated”.
+F.1.18 
+Nonflammable MaterialMetal or a Non Metallic material which meets UL94-V0, FAR25 or approved equivalentF.2 
+DOCUMENTATIONF.2.1 
+Structural Equivalency Spreadsheet - SESF.2.1.1 
+The SES is a supplement to the Formula SAE Rules and may provide guidance or further details 
+in addition to those of the Formula SAE Rules.F.2.1.2 
+The SES provides the means to:a. 
+Document the Primary Structure and show compliance with the Formula SAE Rulesb. 
+Determine Equivalence to Formula SAE Rules using an accepted basisF.2.2 
+Structural DocumentationF.2.2.1 
+All teams must submit a Structural Equivalency Spreadsheet (SES) as given in section DR - 
+Document RequirementsF.2.3 
+EquivalenceF.2.3.1 
+Equivalency in the structural context is determined and documented with the methods in the 
+SESF.2.3.2 
+Any Equivalency calculations must prove Equivalency relative to Steel Tubing in the same 
+applicationF.2.3.3 
+The properties of tubes and laminates may be combined to prove Equivalence.For example, in a Side Impact Structure consisting of one tube per F.3.2.1.e and a laminate 
+panel, the panel only needs to be Equivalent to two Side Impact Tubes.F.2.4 
+ToleranceTolerance on dimensions given in the rules is allowed and is addressed in the SES.F.2.5 
+FabricationVehicles must be fabricated in accordance with the design, materials, and processes described 
+in the SES.F.3 
+TUBING AND MATERIALF.3.1 
+DimensionsDiameter and Wall Thickness values provided in this Section F.3 are based on dimensions for 
+commonly available tubing.
+F.3.2 
+Tubing RequirementsF.3.2.1 
+Requirements by ApplicationApplicationSteel Tube MustMeet Size perF.3.4:Alternative Tubing 
+Material Permittedper F.3.5 ?a. 
+Front Bulkhead 
+Size B 
+Yes 
+ 
+b. 
+Front Bulkhead Support 
+Size C 
+Yes 
+ 
+c. 
+Front Hoop 
+Size A 
+Yes 
+ 
+d. 
+Front Hoop Bracing 
+Size B 
+Yes 
+ 
+e. 
+Side Impact Structure 
+Size B 
+Yes 
+ 
+f. 
+Bent / Multi Upper Side Impact Member 
+Size D 
+Yes 
+ 
+g. 
+Main Hoop 
+Size A 
+NO 
+ 
+h. 
+Main Hoop Bracing 
+Size B 
+NO 
+ 
+i. 
+Main Hoop Bracing Supports 
+Size C 
+Yes 
+ 
+j. 
+Driver Restraint Harness Attachment 
+Size B 
+Yes 
+ 
+k. 
+Shoulder Harness Mounting Bar 
+Size A 
+NO 
+ 
+l. 
+Shoulder Harness Mounting Bar Bracing 
+Size C 
+Yes 
+ 
+m. Accumulator Protection Structure 
+Size B 
+Yes 
+ 
+n. 
+Component Protection 
+Size C 
+Yes 
+ 
+o. 
+Structural Tubing 
+Size C 
+YesF.3.3 
+Non Structural TubingF.3.3.1 
+DefinitionAny tubing which does NOT meet F.3.2.1.o Structural TubingF.3.3.2 
+ApplicabilityNon Structural Tubing is ignored when assessing compliance to any ruleF.3.4 
+Steel Tubing and MaterialF.3.4.1 
+Minimum Requirements for Steel TubingA tube must meet all four minimum requirements for each Size specified:TubeMinimumArea 
+Moment ofInertiaMinimumCross 
+SectionalAreaMinimumOutside 
+Diameter or 
+Square WidthMinimumWall  
+ThicknessExample Sizes ofRound Tubea. 
+Size A 
+11320 mm4 
+173 mm2 
+25.0 mm 
+2.0 mm 
+1.0” x 0.095”25 x 2.5 mmb. 
+Size B 
+8509 mm4 
+114 mm2 
+25.0 mm 
+1.2 mm 
+1.0” x 0.065” 
+25.4 x 1.6 mmc. 
+Size C 
+6695 mm4 
+91 mm2 
+25.0 mm 
+1.2 mm 
+1.0” x 0.049” 
+25.4 x 1.2 mmd. 
+Size D 
+18015 mm4 
+126 mm2 
+35.0 mm 
+1.2 mm 
+1.375” x 0.049”35 x 1.2 mm
+F.3.4.2 
+Properties for ANY steel material for calculations submitted in an SES must be:a. 
+Non Welded Properties for continuous material calculations:Young’s Modulus (E) = 200 GPa (29,000 ksi)Yield Strength (Sy) = 305 MPa (44.2 ksi)Ultimate Strength (Su) = 365 MPa (52.9 ksi)b. 
+Welded Properties for discontinuous material such as joint calculations:Yield Strength (Sy) = 180 MPa (26 ksi)Ultimate Strength (Su) = 300 MPa (43.5 ksi)F.3.4.3 
+Where Welded tubing reinforcements are required (such as inserts for bolt holes or material 
+to support suspension cutouts), Equivalence of the Welded tube and reinforcement must be 
+shown to the original Non Welded tube in the SESF.3.5 
+Alternative Tubing MaterialsF.3.5.1 
+Alternative Materials may be used for applications shown as permitted in F.3.2.1F.3.5.2 
+If any Alternative Materials are used, the SES must contain:a. 
+Documentation of material type, (purchase receipt, shipping document or letter of 
+donation) and the material properties.b. 
+Calculations that show equivalent to or better than the minimum requirements for steel 
+tubing in the application as listed in F.3.4.1 for yield and ultimate strengths matching the 
+Non Welded Steel properties from F.3.4.2.a above in bending, buckling and tension, for 
+buckling modulus and for energy dissipationc. 
+Details of the manufacturing technique and processF.3.5.3 
+Aluminum Tubinga. 
+Minimum Wall Thickness for Aluminum Tubing:  Non Welded 
+2.0 mm 
+Welded  
+3.0 mmb. 
+Non Welded properties for aluminum alloy 6061-T6 for calculations in an SES must be:Young’s Modulus (E)  
+69 GPa (10,000 ksi)Yield Strength (Sy)  
+240 MPa (34.8 ksi)Ultimate Strength (Su)  290 MPa (42.1 ksi)c. 
+Welded properties for aluminum alloy 6061-T6 for calculations in an SES must be:Yield Strength (Sy) 
+115 MPa (16.7 ksi)Ultimate Strength (Su) 175 MPa (25.4 ksi)d. 
+If welding is used on a regulated aluminum structure, the equivalent yield strength must 
+be considered in the “as welded” condition for the alloy used unless the team provides 
+detailed proof that the frame or component has been properly solution heat treated, 
+artificially aged, and not subject to heating during team manufacturing.e. 
+If aluminum was solution heat treated and age hardened to increase its strength after 
+welding, the team must supply evidence as to how the process was performed.This includes, but is not limited to, the heat treating facility used, the process applied, 
+and the fixturing used.
+F.4 
+COMPOSITE AND OTHER MATERIALSF.4.1 
+RequirementsIf any composite or other material is used, the SES must contain:F.4.1.1 
+Documentation of material type, (purchase receipt, shipping document or letter of donation) 
+and the material properties.F.4.1.2 
+Details of the manufacturing technique and/or composite layup technique as well as the 
+structural material used (examples - cloth type, weight, and resin type, number of layers, core 
+material, and skin material if metal).F.4.1.3 
+Calculations that show equivalence of the structure to one of similar geometry made to meet 
+the minimum requirements for a structure made from steel tubing per F.3.2. Equivalency 
+calculations must be submitted for energy dissipation, yield and ultimate strengths in bending, 
+buckling, and tension.F.4.1.4 
+Construction dates of the test panel(s) and monocoque, and approximate age(s) of the 
+materials used.The intent is for the test panel to use the same material batch, material age, material storage, 
+and student layup quality as the monocoque.F.4.2 
+Quasi-Isotropic LayupA layup with equal fiber strength and stiffness along any orientation in the plane of the layup.a. 
+When a layup has equal fiber properties and mass in the 0/90/+45/-45 directions, the 
+layup may be considered Quasi-IsotropicF.4.3 
+Laminate and Material TestingF.4.3.1 
+Testing Requirementsa. 
+Any tested samples must be engraved with the construction date, sample name, and 
+peak test force.b. 
+The same set of test results must not be used for different monocoques in different 
+years.The intent is for the test panel to use the same material batch, material age, material storage, 
+and student layup quality as the monocoque.F.4.3.2 
+Primary Structure Laminate TestingTeams must build new representative test panels for each ply schedule used in the regulated 
+regions of the new chassis as a flat panel and perform a 3 point bending test on these panels.  
+Refer to F.4.3.4a. 
+Test panels must:• 
+Measure one of the two options:  138 mm x 500 mm  OR  275 mm x 500 mm• 
+Be supported by a span distance of 400 mm• 
+Have equal surface area for the top and bottom skin• 
+Have bare edges, without skin materialb. 
+The SES must include:• 
+Data from the 3 point bending tests• 
+Pictures of the test samples
+• 
+A picture of the test sample and test setup showing a measurement documenting 
+the supported span distance used in the SESc. 
+Test panel results must be used to derive stiffness, yield strength, ultimate strength and 
+absorbed energy properties by the SES formula and limits for the purpose of calculating 
+laminate panels equivalency corresponding to Primary Structure regions of the chassis.d. 
+Test panels must use the thickest core associated with each skin layup.Designs may use core thickness that is 50% - 100% of the test panel core thickness 
+associated with each skin layup.e. 
+Calculation of derived properties must use the part of test data where deflection is 50 
+mm or lessf. 
+Calculation of absorbed energy must use the integral of force times displacementF.4.3.3 
+Comparison TestTeams must make an equivalent test that will determine any compliance in the test rig and 
+establish an absorbed energy value of the baseline tubes.a. 
+The comparison test must use two Side Impact steel tubes (F.3.2.1.e)b. 
+The steel tubes must be tested to a minimum displacement of 19.0 mmc. 
+The calculation of absorbed energy must use the integral of force times displacement 
+from the initiation of load to a displacement of 19.0 mmF.4.3.4 
+Test Conducta. 
+The Laminate test F.4.3.2 and the Comparison test F.4.3.2e must use the same fixtureb. 
+The load applicator used to test any panel/tubes as required in this section F.4.3 must 
+be:• 
+Metallic• 
+Radius 50 mmc. 
+The load applicator must overhang the test piece to prevent edge loadingd. 
+Any other material must not be placed between the load applicator and the items on testF.4.3.5 
+Perimeter Shear Testa. 
+The Perimeter Shear Test must be completed by measuring the force required to push or 
+pull a 25 mm diameter flat punch through a flat laminate sample.b. 
+The sample must:• 
+Measure 100 mm x 100 mm minimum• 
+Have core and skin thicknesses identical to those used in the actual application• 
+Be manufactured using the same materials and processes
+c. 
+The fixture must support the entire sample, except for a 32 mm hole aligned coaxially 
+with the punch.d. 
+The sample must not be clamped to the fixturee. 
+The edge of the punch and hole in the fixture may include an optional fillet up to a 
+maximum radius of 1 mm.f. 
+The SES must include force and displacement data and photos of the test setup.g. 
+The first peak in the load-deflection curve must be used to determine the skin shear 
+strength; this may be less than the minimum force required by F.7.3.3 / F.7.5.5h. 
+The maximum force recorded must meet the requirements of F.7.3.3 / F.7.5.5F.4.3.6 
+Additional TestingWhen a laminate schedule(s) are NOT a Quasi-Isotropic Layup (F.4.2):a. 
+Results from the 3 point bending test will be assigned to the 0 layup direction.b. 
+The monocoque must have the tested layup direction normal to the cross sections used 
+for Equivalence in the SES, with allowance for taper of the monocoque normal to the 
+cross section.c. 
+All material properties in the weakest direction must be 50% or more of those in the 
+strongest direction as calculated by the SES.F.4.3.7 
+Lap Joint TestThe Lap Joint Test measures the force required to pull apart a joint comprised of two laminate 
+samples that are bonded together.a. 
+Do two separate pull tests with different orientations of the adhesive joint:• 
+Parallel to the pull direction, with the adhesive joint in pure shear• 
+T peel normal to the pull direction, with the adhesive joint in peelb. 
+The samples used must:• 
+Have skin thicknesses identical to those used in the actual monocoque• 
+Be manufactured using the same materials and processes• 
+Have the same overlap as used in the regulated structure. No scaling is permitted.c. 
+The force and displacement data and photos of the test setup must be included in the 
+SES.d. 
+The shear strength of the bond must be more than the UTS of the skinF.4.4 
+Equivalent Flat Panel CalculationF.4.4.1 
+When specified, the Equivalence of the chassis must be calculated as a flat panel with the 
+same composition as the chassis about the neutral axis of the laminate.F.4.4.2 
+The curvature of the panel and geometric cross section of the chassis must be ignored for 
+these calculations.F.4.4.3 
+Calculations of Equivalence that do not reference this section F.4.4 may use the actual 
+geometry of the chassis.F.5 
+CHASSIS REQUIREMENTSThis section applies to all Chassis, regardless of material or construction
+F.5.1 
+Primary StructureF.5.1.1 
+The Primary Structure must be constructed from one or a combination of the following:• 
+Steel Tubing and Material  
+F.3.2   F.3.4• 
+Alternative Tubing Materials 
+F.3.2 
+F.3.5• 
+Composite Material 
+ 
+F.4F.5.1.2 
+Any chassis design that combines the Tube Frame, Monocoque, tubing and/or composite 
+types must:a. 
+Meet all relevant requirements F.5.1.1b. 
+Show Equivalence F.2.3, as applicablec. 
+Any connections must meet F.5.4, F.5.5, F.7.8 as applicable, or Equivalent.F.5.2 
+Bent Tubes or Multiple TubesF.5.2.1 
+The minimum radius of any bend, measured at the tube centerline, must be three or more 
+times the tube outside diameter (3 x OD).F.5.2.2 
+Bends must be smooth and continuous with no evidence of crimping or wall failure.F.5.2.3 
+If a bent tube (or member consisting of multiple tubes that are not in a line) is used anywhere 
+in the Primary Structure other than the Roll Hoops (see F.5.6.2), an additional tube must be 
+attached to support it.a. 
+The support tube attachment point must be at the position along the bent tube where it 
+deviates farthest from a straight line connecting both endsb. 
+The support tube must terminate at a node of the chassisc. 
+The support tube for any bent tube (other than the Upper Side Impact Member or 
+Shoulder Harness Mounting Bar) must be:• 
+The same diameter and thickness as the bent tube• 
+Angled no more than 30° from the plane of the bent tubeF.5.3 
+Holes and Openings in Regulated TubingF.5.3.1 
+Any holes in any regulated tubing (other than inspection holes) must be addressed on the SES.F.5.3.2 
+Technical Inspectors may check the compliance of all tubes.  This may be done by ultrasonic 
+testing or by the drilling of inspection holes on request.F.5.3.3 
+Regulated tubing other than the open lower ends of Roll Hoops must have any open ends 
+closed by a welded cap or inserted metal plug.F.5.4 
+Fasteners in Primary StructureF.5.4.1 
+Bolted connections in the Primary Structure must use a removable bolt and nut.Bonded fasteners and blind nuts and bolts do not meet this requirementF.5.4.2 
+Threaded fasteners used in Primary Structure are Critical Fasteners, see T.8.2F.5.4.3 
+Bolted connections in the Primary Structure using tabs or brackets must have an edge 
+distance ratio “e/D” of 1.5 or higher“D” equals the hole diameter.  “e” equals the distance from the edge of the hole to the nearest 
+free edgeTabs attaching the Suspension to the Primary Structure are NOT “in the Primary Structure”
+F.5.5 
+Bonding in Regulated StructureF.5.5.1 
+Adhesive used and referenced bonding strength must be appropriate for both substrate typesF.5.5.2 
+Document the adhesive choice, age and expiration date, substrate preparation, and the 
+equivalency of the bonded joint in the SESF.5.5.3 
+The SES will reduce any referenced or tested adhesive values by 50%F.5.6 
+Roll HoopsF.5.6.1 
+The Chassis must include both a Main Hoop and a Front Hoop.F.5.6.2 
+The Main Hoop and Front Hoop must be Triangulated into the Primary Structure with 
+Structural TubingThe Triangulation must be at a node in side view for:a. 
+Bends in side viewb. 
+Bends in front view below the Upper Side Impact Structure  F.6.4, F.7.5F.5.6.3 
+Roll Hoop and Driver PositionWhen seated normally and restrained by the Driver Restraint System, the helmet of a 95th 
+percentile male (see V.2.1.1) and all of the team’s drivers must:a. 
+Be a minimum of 50 mm from the straight line drawn from the top of the Main Hoop to 
+the top of the Front Hoop.b. 
+Be a minimum of 50 mm from the straight line drawn from the top of the Main Hoop to 
+the lower end of the Main Hoop Bracing if the bracing extends rearwards.c. 
+Be no further rearwards than the rear surface of the Main Hoop if the Main Hoop Bracing 
+extends forwards.F.5.6.4 
+Driver TemplateA two dimensional template used to represent the 95th percentile male is made to the 
+following dimensions (see figure below):• 
+A circle of diameter 200 mm will represent the hips and buttocks.• 
+A circle of diameter 200 mm will represent the shoulder/cervical region.• 
+A circle of diameter 300 mm will represent the head (with helmet).• 
+A straight line measuring 490 mm will connect the centers of the two 200 mm circles.• 
+A straight line measuring 280 mm will connect the centers of the upper 200 mm circle 
+and the 300 mm head circle.
+F.5.6.5 
+Driver Template PositionThe Driver Template will be positioned as follows:• 
+The seat will be adjusted to the rearmost position• 
+The pedals will be placed in the most forward position• 
+The bottom 200 mm circle will be placed on the seat bottom where the distance 
+between the center of this circle and the rearmost face of the pedals is no less than 915 
+mm• 
+The middle 200 mm circle, representing the shoulders, will be positioned on the seat 
+back• 
+The upper 300 mm circle will be positioned no more than 25 mm away from the head 
+restraint (where the driver’s helmet would normally be located while driving)F.5.7 
+Front HoopF.5.7.1 
+The Front Hoop must be constructed of closed section metal tubing meeting F.3.2.1.cF.5.7.2 
+With proper Triangulation, the Front Hoop may be fabricated from more than one piece of 
+tubingF.5.7.3 
+The Front Hoop must extend from the lowest Frame Member on one side of the Frame, up, 
+over and down to the lowest Frame Member on the other side of the Frame.F.5.7.4 
+The top-most surface of the Front Hoop must be no lower than the top of the steering wheel 
+in any angular position.   See figure following F.5.9.6 belowF.5.7.5 
+The Front Hoop must be no more than 250 mm forward of the steering wheel.This distance is measured horizontally, on the vehicle centerline, from the rear surface of the 
+Front Hoop to the forward most surface of the steering wheel rim with the steering in the 
+straight ahead position.F.5.7.6 
+In side view, any part of the Front Hoop above the Upper Side Impact Structure must be 
+inclined less than 20° from the vertical.F.5.7.7 
+A Front Hoop that is not steel must have a 4 mm hole drilled in a location to access during 
+Technical Inspection
+F.5.8 
+Main HoopF.5.8.1 
+The Main Hoop must be a single piece of uncut, continuous, closed section steel tubing 
+meeting F.3.2.1.gF.5.8.2 
+The Main Hoop must extend from the lowest Frame Member / bottom of Monocoque on one 
+side of the Frame, up, over and down to the lowest Frame Member / bottom of Monocoque 
+on the other side of the Frame.F.5.8.3 
+In the side view of the vehicle,a. 
+The part of the Main Hoop that lies above its attachment point to the upper Side Impact 
+Tube must be less than 10° from vertical.b. 
+Any bends in the Main Hoop above its attachment point to the Major Structure of the 
+Chassis must be braced to a node or Attachment point F.7.8 with tubing meeting 
+F.3.2.1.h and F.5.9.5c. 
+The part of the Main Hoop below the Upper Side Impact Member attachment:• 
+May be forward at any angle• 
+Must not be rearward more than 10° from verticalF.5.8.4 
+In the front view of the vehicle, the vertical members of the Main Hoop must be minimum 380 
+mm apart (inside dimension) at the location where the Main Hoop is attached to the bottom 
+tubes of the Major Structure of the Chassis.F.5.9 
+Main Hoop BracesF.5.9.1 
+Main Hoop Braces must be constructed of closed section steel tubing meeting F.3.2.1.hF.5.9.2 
+The Main Hoop must be supported by two Braces extending in the forward or rearward 
+direction, one on each of the left and right sides of the Main Hoop.F.5.9.3 
+In the side view of the Frame, the Main Hoop and the Main Hoop Braces must not lie on the 
+same side of the vertical line through the top of the Main Hoop.(If the Main Hoop leans forward, the Braces must be forward of the Main Hoop, and if the 
+Main Hoop leans rearward, the Braces must be rearward of the Main Hoop)F.5.9.4 
+The Main Hoop Braces must be attached 160 mm or less below the top most surface of the 
+Main Hoop.The Main Hoop Braces should be attached as near as possible to the top of the Main HoopF.5.9.5 
+The included angle formed by the Main Hoop and the Main Hoop Braces must be 30° or more.F.5.9.6 
+The Main Hoop Braces must be straight, without any bends.
+F.5.9.7 
+The Main Hoop Braces must be:a. 
+Securely integrated into the Frameb. 
+Capable of transmitting all loads from the Main Hoop into the Major Structure of the 
+Chassis without failingF.5.10 
+Head Restraint ProtectionAn additional frame member may be added to meet T.2.8.3.bF.5.10.1 If used, the Head Restraint Protection frame member must:a. 
+Attach to the nodes where the Main Hoop Braces F.5.9.2 connect to the Main Hoopb. 
+Be constructed of a single piece of uncut, continuous, closed section steel tubing meeting 
+F.3.2.1.hc. 
+Meet F.5.2.1 and F.5.2.2, as applicable  (does not need to meet F.5.2.3)F.5.10.2 The Head Restraint or mounting T.2.8 must not attach to the Head Restraint ProtectionF.5.11 
+External ItemsF.5.11.1 Any item which meets all three of:• 
+Located outside the Component Envelope  F.1.15• 
+Located above 350 mm from the ground• 
+Could load the Main Hoop, Main Hoop Brace, or Shoulder Harness Mounting during a 
+rolloverF.5.11.2 External Items must meet one of the two conditions:a. 
+Be attached at a Hoop to Brace node or a fully Triangulated structural node without the 
+ability to create a moment at the nodeb. 
+When not attached at a node as described above, then:• 
+Additional Structural bracing meeting F.3.2.1.o must be added to prevent bending 
+loads• 
+Additional calculations must be performed to show the member will not fail in 
+bending or shear, even if unbracedF.5.11.3 External Items should not point at the driverF.5.12 
+Mechanically Attached Roll Hoop BracingF.5.12.1 When Roll Hoop Bracing is mechanically attached:a. 
+The threaded fasteners used to secure non permanent joints are Critical Fasteners, see 
+T.8.2.  Additional requirements apply in F.5.12.5 and F.5.12.7b. 
+No spherical rod ends are allowed.c. 
+The attachment holes in the lugs, the attached bracing and the sleeves and tubes must 
+be a close fit with the pin or bolt.F.5.12.2 Any non permanent joint at the end(s) must be a Double Lug Joint or a Sleeved Butt Joint
+Figure – Double Lug JointF.5.12.3 For Double Lug Joints, each lug must:a. 
+Be minimum 4.5 mm (0.177 in) thickness steelb. 
+Measure 25 mm minimum perpendicular to the axis of the bracingc. 
+Be as short as practical along the axis of the bracing.F.5.12.4 All Double Lug Joints, whether fitted parallel or perpendicular to the axis of the tube, mustinclude a capping arrangementF.5.12.5 In a Double Lug Joint the pin or bolt must be 10 mm Metric Grade 9.8 or 3/8 in SAE Grade 8minimum diameter and grade.  See F.5.12.1 aboveFigure – Sleeved Butt JointF.5.12.6 For Sleeved Butt Joints, the sleeve must:a. 
+Have a minimum length of 75 mm; 37.5 mm to each side of the jointb. 
+Be external to the base tubes, with a close fit around the base tubes.c. 
+Have a wall thickness of 2.0 mm or moreF.5.12.7 In a Sleeved Butt Joint, the bolts must be 6 mm Metric Grade 9.8 or 1/4 in SAE Grade 8minimum diameter and grade.  See F.5.12.1 aboveF.5.13 
+Other Bracing RequirementsF.5.13.1 Where the braces are not welded to steel Frame Members, the braces must be securelyattached to the Frame using 8 mm or 5/16” minimum diameter Critical Fasteners, see T.8.2F.5.13.2 Mounting plates welded to Roll Hoop Bracing must be 2.0 mm (0.080 in) minimum thicknesssteel.
+F.5.14 
+Steering ProtectionSteering system racks or mounting components that are external (vertically above or below) 
+to the Primary Structure must be protected from frontal impact.  The protective structure 
+must:a. 
+Meet  F.3.2.1.n or Equivalentb. 
+Extend to the vertical limit of the steering component(s)c. 
+Extend to the local width of the ChassisF.5.15 
+Other Side Tube RequirementsIf there is a Roll Hoop Brace or other frame tube alongside the driver, at the height of the neck 
+of any of the team’s drivers, a metal tube or piece of sheet metal must be attached to the 
+FrameThis is intended to prevent the drivers’ shoulders from passing under the Roll Hoop Brace or 
+frame tube, and the driver’s neck contacting this brace or tube.F.5.16 
+Component ProtectionWhen specified in the rules, components must be protected by one or both of:a. 
+Fully Triangulated structure with tubes meeting F.3.2.1.nb. 
+Structure Equivalent to the above, as determined per F.4.1.3F.6 
+TUBE FRAMESF.6.1 
+Front BulkheadThe Front Bulkhead must be constructed of closed section tubing meeting F.3.2.1.aF.6.2 
+Front Bulkhead SupportF.6.2.1 
+Frame Members of the Front Bulkhead Support system must be constructed of closed section 
+tubing meeting F.3.2.1.bF.6.2.2 
+The Front Bulkhead must be securely integrated into the Frame.F.6.2.3 
+The Front Bulkhead must be supported back to the Front Hoop by a minimum of three Frame 
+Members on each side of the vehicle; an upper member; lower member and diagonal brace to 
+provide Triangulation.a. 
+The upper support member must be attached 50 mm or less from the top surface of the 
+Front Bulkhead, and attach to the Front Hoop inside a zone extending 100 mm above 
+and 50 mm below the Upper Side Impact member.b. 
+If the upper support member is further than 100 mm above the Upper Side Impact 
+member, then properly Triangulated bracing is required to transfer load to the Main 
+Hoop by one of:• 
+the Upper Side Impact member 
+• 
+an additional member transmitting load from the junction of the Upper Support 
+Member with the Front Hoopc. 
+The lower support member must be attached to the base of the Front Bulkhead and the 
+base of the Front Hoop.d. 
+The diagonal brace must properly Triangulate the upper and lower support members
+F.6.2.4 
+Each of the above members may be multiple or bent tubes provided the requirements of F.5.2 
+are met.F.6.2.5 
+Examples of acceptable configurations of members may be found in the SESF.6.3 
+Front Hoop BracingF.6.3.1 
+Front Hoop Braces must be constructed of material meeting F.3.2.1.dF.6.3.2 
+The Front Hoop must be supported by two Braces extending in the forward direction, one on 
+each of the left and right sides of the Front Hoop.F.6.3.3 
+The Front Hoop Braces must be constructed to protect the driver’s legs and should extend to 
+the structure in front of the driver’s feet.F.6.3.4 
+The Front Hoop Braces must be attached as near as possible to the top of the Front Hoop but 
+not more than 50 mm below the top-most surface of the Front Hoop.  See figure following 
+F.5.9.6 aboveF.6.3.5 
+If the Front Hoop above the Upper Side Impact Structure leans rearwards by more than 10° 
+from the vertical, it must be supported by additional rearward Front Hoop Braces to a fully 
+Triangulated structural node.F.6.3.6 
+The Front Hoop Braces must be straight, without any bendsF.6.4 
+Side Impact StructureF.6.4.1 
+Frame Members of the Side Impact Structure must be constructed of closed section tubing 
+meeting F.3.2.1.e or F.3.2.1.f, as applicableF.6.4.2 
+With proper Triangulation, Side Impact Structure members may be fabricated from more than 
+one piece of tubing.F.6.4.3 
+The Side Impact Structure must be comprised of three or more tubular members located on 
+each side of the driver while seated in the normal driving positionF.6.4.4 
+The Upper Side Impact Member must:a. 
+Connect the Main Hoop and the Front Hoop.b. 
+Be entirely in a zone that is parallel to the ground between 240 mm and 320 mm above 
+the lowest point of the top surface of the Lower Side Impact MemberF.6.4.5 
+The Lower Side Impact Structure member must connect the bottom of the Main Hoop and the 
+bottom of the Front Hoop.
+F.6.4.6 
+The Diagonal Side Impact Member must:a. 
+Connect the Upper Side Impact Member and Lower Side Impact Member forward of the 
+Main Hoop and rearward of the Front Hoopb. 
+Completely Triangulate the bays created by the Upper and Lower Side Impact Members.F.6.5 
+Shoulder Harness MountingF.6.5.1 
+The Shoulder Harness Mounting Bar must:a. 
+Be a single piece of uncut, continuous, closed section steel tubing that meets F.3.2.1.kb. 
+Attach to the Main Hoop on both sides of the chassisF.6.5.2 
+Bent Shoulder Harness Mounting Bars must:a. 
+Meet F.5.2.1 and F.5.2.2b. 
+Have bracing members attached at the bend(s) and to the Main Hoop.• 
+Material for this Shoulder Harness Mounting Bar Bracing must meet F.3.2.1.l• 
+The included angle in side view between the Shoulder Harness Bar and the braces 
+must be no less than 30°.F.6.5.3 
+The Shoulder Harness Mounting Bar should be loaded only by the Shoulder HarnessThe Head Restraint, Firewall, driver’s seat and light bodywork may attach to the mounting barF.6.6 
+Main Hoop Bracing SupportsF.6.6.1 
+Frame Members of the Main Hoop Bracing Support system must be constructed of closed 
+section tubing meeting F.3.2.1.iF.6.6.2 
+The lower end of the Main Hoop Braces must be supported back to the Main Hoop by a 
+minimum of two Frame Members on each side of the vehicle: an upper member and a lower 
+member in a properly Triangulated configuration.a. 
+The upper support member must attach to the node where the upper Side Impact 
+Member attaches to the Main Hoop.b. 
+The lower support member must attach to the node where the lower Side Impact 
+Member attaches to the Main Hoop.c. 
+Each of the above members may be multiple or bent tubes provided the requirements of 
+F.5.2 are met.d. 
+Examples of acceptable configurations of members may be found in the SES.F.7 
+MONOCOQUEF.7.1 
+General RequirementsF.7.1.1 
+The Structural Equivalency Spreadsheet must show that the design is Equivalent to a welded 
+frame in terms of energy dissipation, yield and ultimate strengths in bending, buckling and 
+tensionF.7.1.2 
+Composite and metallic monocoques have the same requirementsF.7.1.3 
+Corners between panels used for structural equivalence must contain coreF.7.1.4 
+An inspection hole approximately 4mm in diameter must be drilled through a low stress 
+location of every monocoque section regulated by the Structural Equivalency SpreadsheetThis inspection hole is not required in the Vertical Side Impact Structure  F.7.5.3.b
+F.7.1.5 
+Composite monocoques must:a. 
+Meet the materials requirements in F.4 Composite and Other Materialsb. 
+Use data from the laminate testing results as the basis for any strength or stiffness 
+calculationsF.7.2 
+Front BulkheadF.7.2.1 
+When modeled as an “L” shaped section the EI of the Front Bulkhead about both vertical and 
+lateral axis must be equivalent to that of the tubes specified for the Front Bulkhead per F.6.1F.7.2.2 
+The length of the section perpendicular to the Front Bulkhead may be a maximum of 25 mm 
+measured from the rearmost face of the Front BulkheadF.7.2.3 
+Any Front Bulkhead which supports the IA plate must have a perimeter shear strength 
+equivalent to a 1.5 mm thick steel plateF.7.3 
+Front Bulkhead SupportF.7.3.1 
+In addition to proving that the strength of the monocoque is sufficient, the monocoque must 
+have equivalent EI to the sum of the EI of the six Steel Tubes (F.3.2.1.b) that it replaces.F.7.3.2 
+The EI of the vertical side of the Front Bulkhead support structure must be equivalent to or 
+more than the EI of one steel tube that it replaces when calculated as per F.4.4F.7.3.3 
+The perimeter shear strength of the monocoque laminate in the Front Bulkhead support 
+structure must be 4 kN or more for a section with a diameter of 25 mm.This must be proven by a physical test completed per F.4.3.5 and the results included in the 
+SES.F.7.4 
+Front Hoop AttachmentF.7.4.1 
+The Front Hoop must be mechanically attached to the monocoquea. 
+Front Hoop Mounting Plates must be the minimum thickness of the Front Hoop F.3.2.1.cb. 
+The Front Hoop tube must be mechanically connected to the Mounting Plate with 
+Mounting Plates parallel to both sides of the tube, with gussets from the Front Hoop 
+tube along both sides of the mounting plateF.7.4.2 
+Front Hoop attachment to a monocoque must obey F.5.7.2 or F.7.8 within 25 mm of any 
+bends and nodes that are not at the top center of the Front HoopF.7.4.3 
+The Front Hoop may be fully laminated into the monocoque if:a. 
+The Front Hoop has core fit tightly around its entire circumference.  Expanding foam is 
+not permittedb. 
+Equivalence to six or more mounts compliant with F.7.8 must show in the SESc. 
+A small gap in the laminate (approximately 25 mm) exists for inspection of the Front 
+Hoop  F.5.7.6F.7.4.4 
+Adhesive must not be the sole method of attaching the Front Hoop to the monocoque
